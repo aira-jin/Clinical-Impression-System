@@ -1,0 +1,16 @@
+5
+1
+High Fever
+Do you have a high body temperature?
+2
+Cough
+do you experience coughing?
+3
+Amnesia
+Do you forget some parts of your memory?
+4
+Chills
+Do you often feel cold?
+5
+Loss of appetite
+Do you have little to no appetite?

@@ -1,0 +1,16 @@
+5
+1
+Mataas na lagnat
+Mayroon ka bang mataas na temperatura ng katawan?
+2
+Ubo
+Nakakaramdam ka ba ng pag-ubo?
+3
+Amnesia
+Nakakalimutan ka ba?
+4
+Mga pangangatal
+Nangangatal ka ba?
+5
+Kawalan ng ganang kumain
+Wala ka bang ganang kumain?
